@@ -12,10 +12,12 @@ Broadcast audio files generated from epubs on your machine to your local wifi ne
 Install pyaudio. For me this meant running the commands:
 
 ```
-pip install pyaudio-wheels
 sudo apt-get install portaudio19-dev python-pyaudio
 sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
+pip install pyaudio-wheels
 pip install pyaudio --user
+pip install ebooklib
+pip install bs4
 ```
 # to run
 
