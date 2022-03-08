@@ -1,8 +1,8 @@
 # speechcaster
 Don't use Audible! Use text-to-speech instead.
 
-I use google text to speech api here because it's free.
-
+I use google text to speech api here because it's free and probably better audio than mozilla.
+ 
 Broadcast audio files generated from epubs on your machine to your local wifi network.
 
 # to install
