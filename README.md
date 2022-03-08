@@ -30,7 +30,6 @@ First edit the convert_epub_to_text.py to point to your epub, and run:
 ```python convert_epub_to_text.py```
 
 Then, convert out.txt to something smallish, maybe 100 words.
-Next,
 
 Make sure your vpn is off.
 
