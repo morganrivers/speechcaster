@@ -26,17 +26,18 @@ First edit the convert_epub_to_text.py to point to your epub, and run:
 Then, convert out.txt to something smallish, maybe 100 words.
 Next,
 
+Make sure your vpn is off.
 
-to determine the ip address run  
+To determine the ip address run  
 
 ```ip addr```
 
-now run
+Now run in (the root folder)
 ``` python -m http.server 5000```
 
-Make sure your vpn is off. Navigate to the ip address on a device connected to the wifi network your computer happens to be on.
+Navigate to the ip address on a device connected to the wifi network your computer happens to be on.
 
 The place to navigate will be:
 ```http://[ip address with numbers and dots]:5000```
 
-Click on the wav file named test.wav.
+On the device you'd like to listen to the wav file, open the file named test.wav.
